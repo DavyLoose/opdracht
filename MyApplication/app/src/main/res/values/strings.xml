@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Price calculator</string>
+    <string name="choose_brand">Choose a brand</string>
+    <string name="choose_options">Choose options</string>
+    <string name="buy_car">buy</string>
+    <string name="back">back</string>
+    <string name="bought_car">Congratulations you bought a </string>
+</resources>
